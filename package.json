@@ -1,0 +1,14 @@
+{
+  "name": "book--foundations-and-react-driven-advances-in-web-applications-development",
+  "version": "1.0.0",
+  "description": "Book: Foundations and React-Driven Advances in Web Applications Development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
